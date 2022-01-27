@@ -1,0 +1,12 @@
+This is Construct.
+Here I've changed something into the file.
+Here I've changed to something from the file for everybody to see.
+<<<<<<< HEAD
+I would love this change in line 4
+||||||| bf9f906
+
+=======
+Here I've created a second branch and it will be used to create something.
+But what is this?
+
+>>>>>>> second-branch
