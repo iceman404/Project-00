@@ -1,2 +1,3 @@
 Hi this is =instruct 1.
 Hi this is =instruct 2.
+New habit of commiting to the github.
