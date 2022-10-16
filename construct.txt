@@ -4,3 +4,6 @@ Here I've changed to something from the file for everybody to see.
 Here I've created a second branch and it will be used to create something.
 But what is this?
 This is the new construct.
+New line added.
+My new line 2.
+My new line 3.
